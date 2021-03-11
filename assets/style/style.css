@@ -1,4 +1,7 @@
+@import"./fonts.css";
+@import"./style_print.css" print;
+
 p{
   font-family: "DotGothic";
-  color: brown;
+  
 }
