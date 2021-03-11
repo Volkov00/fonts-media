@@ -1,0 +1,9 @@
+@font-face{
+  font-family:"DotGothic";
+ src: url("../fonts/DotGothic/DotGothic16-Regular.ttf") format("truetype");
+}
+@font-face{
+  font-family: "Roboto";
+  src: url("../fonts/Roboto/Roboto-Bold.ttf");
+  font-weight: 800;
+}
